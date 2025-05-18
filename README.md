@@ -20,13 +20,13 @@ my_portfolio/
 
 ├── app.py
 
-├── templates/
+├── templates
 
-│   ├── login.html
+    ├── login.html
 
-│   ├── register.html
+    ├── register.html
 
-│   └── home.html
+    └── home.html
 
 
 🛠️ **Technologies Used**
