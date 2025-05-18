@@ -28,8 +28,6 @@ my_portfolio/
 
 │   └── home.html
 
-└── static/
-    └── (optional for CSS or images)
 
 🛠️ **Technologies Used**
 
