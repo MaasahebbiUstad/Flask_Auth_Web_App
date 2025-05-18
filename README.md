@@ -4,15 +4,15 @@ A beginner-friendly Flask application that provides basic user authentication �
 
 🚀 **Features**
 
-User Registration (Sign-up)
+* User Registration (Sign-up)
 
-User Login and Logout
+* User Login and Logout
 
-Password Hashing (for secure storage)
+* Password Hashing (for secure storage)
 
-MySQL Database Integration
+* MySQL Database Integration
 
-Flask Session Management
+* Flask Session Management
 
 📁 **Project Structure**
 
@@ -31,13 +31,13 @@ my_portfolio/
 
 🛠️ **Technologies Used**
 
-Python
+* Python
 
-Flask
+* Flask
 
-MySQL
+* MySQL
 
-Jinja2 Templates
+* Jinja2 Templates
 
 ✅ **Purpose of the App**
 
